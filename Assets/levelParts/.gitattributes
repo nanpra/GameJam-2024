@@ -1,1 +1,1 @@
-D:GitHubGameJam-2024GameJam-2024AssetslevelParts.psd filter=lfs diff=lfs merge=lfs -text
+*.Unity[[:space:]]package[[:space:]]file filter=lfs diff=lfs merge=lfs -text
