@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 00cb92e45c01c224fb29f48ae8fcb092
+  - enabled: 1
     path: Assets/Scenes/EnemyAI.unity
     guid: ac82036da91219643a2242610c43c1f6
   m_configObjects:
